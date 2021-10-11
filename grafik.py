@@ -1,6 +1,6 @@
 '''
 Plik dane.csv zawiera dane zbierane na węźle ciepłowniczym przez
-przedsiębiorstwo dostarczające ciepło do budynku (patrz opisy kolumn w pliku).
+przedsiębiorstwo dostarczające ciepło do budynku.
 Napisać skrypt w języku Python, dokonujący podstawowej analizy tych danych.
 '''
 
